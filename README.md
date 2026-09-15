@@ -10,7 +10,7 @@ domain and everything it keeps in a volume.
 
 ## What it creates
 
-- **hermes** — Hermes Agent `v2026.9.11`, built on the instance from the
+- **hermes** — Hermes Agent `v2026.9.14`, built on the instance from the
   `Dockerfile` in this repository. The dashboard answers on the domain you
   choose; config, API keys, sessions, memories, skills and logs are kept in a
   volume at `/opt/data`.
