@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/cubeshipd/cubeship-hermes-agent-template/compare/v1.0.2...v1.0.3) (2026-09-17)
+
+
+### Bug Fixes
+
+* cut a release when the upstream app updates ([b888db5](https://github.com/cubeshipd/cubeship-hermes-agent-template/commit/b888db5f082d8e6684e6dd35beef2804e45b3a5f))
+
 ## [1.0.2](https://github.com/cubeshipd/cubeship-hermes-agent-template/compare/v1.0.1...v1.0.2) (2026-09-15)
 
 
