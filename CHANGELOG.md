@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.4](https://github.com/cubeshipd/cubeship-hermes-agent-template/compare/v1.0.3...v1.0.4) (2026-09-21)
+
+
+### Bug Fixes
+
+* build on Hermes Agent v2026.9.21 ([cf38477](https://github.com/cubeshipd/cubeship-hermes-agent-template/commit/cf38477412ab69c8df4b04dc60e0ee2ebd6f0e21))
+* build the Dockerfile the release ships ([39d2e3a](https://github.com/cubeshipd/cubeship-hermes-agent-template/commit/39d2e3a7aa892e50688a6c61c1ba9e932024df8e))
+
 ## [1.0.3](https://github.com/cubeshipd/cubeship-hermes-agent-template/compare/v1.0.2...v1.0.3) (2026-09-17)
 
 
